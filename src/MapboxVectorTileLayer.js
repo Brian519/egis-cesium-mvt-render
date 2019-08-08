@@ -7,6 +7,7 @@ const Cesium = require('cesium/Cesium');
 const Rbush = require('rbush');
 const mvtParser = new MVT();
 
+
 class Declutter {
 
     constructor() {
